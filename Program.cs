@@ -1,10 +1,13 @@
-﻿namespace pra_loop
+﻿using System.Text.Json.Nodes;
+
+namespace pra_loop
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Start Number: ");
+            // first Question
+            /*Console.Write("Start Number: ");
             int a = int.Parse (Console.ReadLine());
 
             Console.Write("End Number: ");
@@ -20,7 +23,22 @@
                 Console.WriteLine(i);
                 
             }
+            */
 
+            // second Question
+
+            {
+                int number;
+                Console.Write("Please Enter a Number: ");
+                number = int.Parse(Console.ReadLine());
+
+                int j = 1;
+                for(int i = 1; i <= number; i++)
+                {
+                    j = j * i;
+                }
+                Console.WriteLine(j);
+            }
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\bin\Debug\net6.0\pra-loop.exe
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\bin\Debug\net6.0\pra-loop.deps.json
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\bin\Debug\net6.0\pra-loop.runtimeconfig.json
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\bin\Debug\net6.0\pra-loop.dll
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\bin\Debug\net6.0\pra-loop.pdb
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.csproj.AssemblyReference.cache
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.AssemblyInfoInputs.cache
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.AssemblyInfo.cs
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.csproj.CoreCompileInputs.cache
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.dll
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\refint\pra-loop.dll
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.pdb
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\pra-loop.genruntimeconfig.cache
+C:\Users\ICT-LAP2\source\repos\pra-loop\pra-loop\obj\Debug\net6.0\ref\pra-loop.dll
